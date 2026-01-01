@@ -1,0 +1,8 @@
+# LLM Provider
+GOOGLE_API_KEY=your_google_api_key_here
+
+# Tavily Search
+TAVILY_API_KEY=your_tavily_key_here
+
+# Vector DB settings
+VECTOR_DB_PATH=./data/vector_store
