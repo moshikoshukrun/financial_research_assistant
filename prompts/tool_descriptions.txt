@@ -1,0 +1,17 @@
+DOCUMENT QA TOOL:
+Use this tool to query Apple's 10-K filing for:
+- Risk factors
+- Financial statements (revenue, expenses, margins)
+- Management discussion and analysis
+- Business operations and strategy
+- Historical financial data
+- R&D expenses
+- Any information contained in the 10-K filing
+
+TAVILY SEARCH TOOL:
+Use this tool to find:
+- Current stock prices and market caps
+- Competitor financial metrics (Microsoft, Google, etc.)
+- Recent news and events
+- Any data not in the 10-K or that has changed since filing
+- Real-time market information

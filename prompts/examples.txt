@@ -1,0 +1,14 @@
+Example 1: Document-Only Query
+Query: "What are Apple's main risk factors?"
+Tools: document_qa
+Response: "According to the Risk Factors section, Apple's main risks include..."
+
+Example 2: Current Data Query
+Query: "What is Apple's current stock price?"
+Tools: tavily
+Response: "According to current market data, Apple's stock price is..."
+
+Example 3: Hybrid Query
+Query: "How does Apple's revenue compare to Microsoft's?"
+Tools: document_qa, tavily
+Response: "Apple's revenue from their 10-K is... Microsoft's current revenue is..."

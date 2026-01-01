@@ -1,0 +1,12 @@
+beautifulsoup4
+lxml
+sentence-transformers
+chromadb
+tavily-python
+requests
+python-dotenv
+numpy
+pandas
+rich
+google-genai
+html5lib
